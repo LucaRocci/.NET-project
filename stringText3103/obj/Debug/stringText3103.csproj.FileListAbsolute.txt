@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\stringText3103\bin\Debug\stringText3103.exe.config
+Z:\WINDOWS\c#\stringText3103\bin\Debug\stringText3103.exe
+Z:\WINDOWS\c#\stringText3103\bin\Debug\stringText3103.pdb
+Z:\WINDOWS\c#\stringText3103\obj\Debug\stringText3103.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\stringText3103\obj\Debug\stringText3103.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\stringText3103\obj\Debug\stringText3103.exe
+Z:\WINDOWS\c#\stringText3103\obj\Debug\stringText3103.pdb

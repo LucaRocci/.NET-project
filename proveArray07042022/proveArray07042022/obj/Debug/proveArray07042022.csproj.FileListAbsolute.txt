@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\proveArray07042022\proveArray07042022\bin\Debug\proveArray07042022.exe.config
+Z:\WINDOWS\c#\proveArray07042022\proveArray07042022\bin\Debug\proveArray07042022.exe
+Z:\WINDOWS\c#\proveArray07042022\proveArray07042022\bin\Debug\proveArray07042022.pdb
+Z:\WINDOWS\c#\proveArray07042022\proveArray07042022\obj\Debug\proveArray07042022.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\proveArray07042022\proveArray07042022\obj\Debug\proveArray07042022.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\proveArray07042022\proveArray07042022\obj\Debug\proveArray07042022.exe
+Z:\WINDOWS\c#\proveArray07042022\proveArray07042022\obj\Debug\proveArray07042022.pdb

@@ -1,0 +1,21 @@
+C:\Prove\Override\Override\bin\Debug\Override.exe.config
+C:\Prove\Override\Override\bin\Debug\Override.exe
+C:\Prove\Override\Override\bin\Debug\Override.pdb
+C:\Prove\Override\Override\obj\Debug\Override.csproj.AssemblyReference.cache
+C:\Prove\Override\Override\obj\Debug\Override.csproj.CoreCompileInputs.cache
+C:\Prove\Override\Override\obj\Debug\Override.exe
+C:\Prove\Override\Override\obj\Debug\Override.pdb
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Override\Override\bin\Debug\Override.exe.config
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Override\Override\bin\Debug\Override.exe
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Override\Override\bin\Debug\Override.pdb
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Override\Override\obj\Debug\Override.csprojAssemblyReference.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Override\Override\obj\Debug\Override.csproj.CoreCompileInputs.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Override\Override\obj\Debug\Override.exe
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Override\Override\obj\Debug\Override.pdb
+Z:\WINDOWS\c#\Override\Override\bin\Debug\Override.exe.config
+Z:\WINDOWS\c#\Override\Override\bin\Debug\Override.exe
+Z:\WINDOWS\c#\Override\Override\bin\Debug\Override.pdb
+Z:\WINDOWS\c#\Override\Override\obj\Debug\Override.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\Override\Override\obj\Debug\Override.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\Override\Override\obj\Debug\Override.exe
+Z:\WINDOWS\c#\Override\Override\obj\Debug\Override.pdb

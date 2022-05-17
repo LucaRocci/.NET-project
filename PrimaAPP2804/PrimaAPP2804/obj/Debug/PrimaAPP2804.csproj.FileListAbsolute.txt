@@ -1,0 +1,10 @@
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\bin\Debug\PrimaAPP2804.exe.config
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\bin\Debug\PrimaAPP2804.exe
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\bin\Debug\PrimaAPP2804.pdb
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\obj\Debug\PrimaAPP2804.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\obj\Debug\PrimaAPP2804.Form1.resources
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\obj\Debug\PrimaAPP2804.Properties.Resources.resources
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\obj\Debug\PrimaAPP2804.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\obj\Debug\PrimaAPP2804.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\obj\Debug\PrimaAPP2804.exe
+Z:\WINDOWS\c#\PrimaAPP2804\PrimaAPP2804\obj\Debug\PrimaAPP2804.pdb

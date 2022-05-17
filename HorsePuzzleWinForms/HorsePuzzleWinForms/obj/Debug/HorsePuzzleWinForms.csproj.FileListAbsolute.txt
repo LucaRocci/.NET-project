@@ -1,0 +1,37 @@
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe.config
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.pdb
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csprojResolveAssemblyReference.cache
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Form1.resources
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Properties.Resources.resources
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csproj.GenerateResource.Cache
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.exe
+C:\Albe\ITStraining\Corsi\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.pdb
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe.config
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.exe
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.pdb
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.pdb
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csprojResolveAssemblyReference.cache
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Form1.resources
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Properties.Resources.resources
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csproj.GenerateResource.Cache
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe.config
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.exe
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.pdb
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.pdb
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csprojResolveAssemblyReference.cache
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Form1.resources
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Properties.Resources.resources
+C:\Albe\ITStraining\Corsi2017-19\.NET Framework\Esempi\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csproj.GenerateResource.Cache
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe.config
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.exe
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\bin\Debug\HorsePuzzleWinForms.pdb
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Form1.resources
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.Properties.Resources.resources
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.exe
+Z:\WINDOWS\c#\HorsePuzzleWinForms\HorsePuzzleWinForms\obj\Debug\HorsePuzzleWinForms.pdb

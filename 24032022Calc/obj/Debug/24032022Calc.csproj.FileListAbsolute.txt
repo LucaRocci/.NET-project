@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\24032022Calc\bin\Debug\24032022Calc.exe.config
+Z:\WINDOWS\c#\24032022Calc\bin\Debug\24032022Calc.exe
+Z:\WINDOWS\c#\24032022Calc\bin\Debug\24032022Calc.pdb
+Z:\WINDOWS\c#\24032022Calc\obj\Debug\24032022Calc.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\24032022Calc\obj\Debug\24032022Calc.exe
+Z:\WINDOWS\c#\24032022Calc\obj\Debug\24032022Calc.pdb
+Z:\WINDOWS\c#\24032022Calc\obj\Debug\24032022Calc.csproj.AssemblyReference.cache

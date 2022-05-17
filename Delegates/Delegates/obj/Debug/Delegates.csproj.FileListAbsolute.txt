@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\Delegates\Delegates\bin\Debug\Delegates.exe.config
+Z:\WINDOWS\c#\Delegates\Delegates\bin\Debug\Delegates.exe
+Z:\WINDOWS\c#\Delegates\Delegates\bin\Debug\Delegates.pdb
+Z:\WINDOWS\c#\Delegates\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\Delegates\Delegates\obj\Debug\Delegates.exe
+Z:\WINDOWS\c#\Delegates\Delegates\obj\Debug\Delegates.pdb

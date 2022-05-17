@@ -1,0 +1,18 @@
+C:\Albe\ITStraining\Corsi\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\obj\Debug\OttoRegine2.exe
+C:\Albe\ITStraining\Corsi\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\obj\Debug\OttoRegine2.pdb
+C:\Albe\ITStraining\Corsi\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\bin\Debug\OttoRegine2.exe
+C:\Albe\ITStraining\Corsi\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\bin\Debug\OttoRegine2.pdb
+C:\Albe\ITStraining\Corsi\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\obj\Debug\OttoRegine2.csprojResolveAssemblyReference.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\bin\Debug\OttoRegine2.exe
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\bin\Debug\OttoRegine2.pdb
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\obj\Debug\OttoRegine2.csprojAssemblyReference.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\obj\Debug\OttoRegine2.csproj.CoreCompileInputs.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\obj\Debug\OttoRegine2.exe
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\OttoRegine2\obj\Debug\OttoRegine2.pdb
+Z:\WINDOWS\c#\OttoRegine2\bin\Debug\OttoRegine2.exe.config
+Z:\WINDOWS\c#\OttoRegine2\bin\Debug\OttoRegine2.exe
+Z:\WINDOWS\c#\OttoRegine2\bin\Debug\OttoRegine2.pdb
+Z:\WINDOWS\c#\OttoRegine2\obj\Debug\OttoRegine2.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\OttoRegine2\obj\Debug\OttoRegine2.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\OttoRegine2\obj\Debug\OttoRegine2.exe
+Z:\WINDOWS\c#\OttoRegine2\obj\Debug\OttoRegine2.pdb

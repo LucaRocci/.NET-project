@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\OttoRegine\OttoRegine\bin\Debug\OttoRegine.exe.config
+Z:\WINDOWS\c#\OttoRegine\OttoRegine\bin\Debug\OttoRegine.exe
+Z:\WINDOWS\c#\OttoRegine\OttoRegine\bin\Debug\OttoRegine.pdb
+Z:\WINDOWS\c#\OttoRegine\OttoRegine\obj\Debug\OttoRegine.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\OttoRegine\OttoRegine\obj\Debug\OttoRegine.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\OttoRegine\OttoRegine\obj\Debug\OttoRegine.exe
+Z:\WINDOWS\c#\OttoRegine\OttoRegine\obj\Debug\OttoRegine.pdb

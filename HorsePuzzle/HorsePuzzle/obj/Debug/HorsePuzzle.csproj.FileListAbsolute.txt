@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\HorsePuzzle\HorsePuzzle\bin\Debug\HorsePuzzle.exe.config
+Z:\WINDOWS\c#\HorsePuzzle\HorsePuzzle\bin\Debug\HorsePuzzle.exe
+Z:\WINDOWS\c#\HorsePuzzle\HorsePuzzle\bin\Debug\HorsePuzzle.pdb
+Z:\WINDOWS\c#\HorsePuzzle\HorsePuzzle\obj\Debug\HorsePuzzle.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\HorsePuzzle\HorsePuzzle\obj\Debug\HorsePuzzle.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\HorsePuzzle\HorsePuzzle\obj\Debug\HorsePuzzle.exe
+Z:\WINDOWS\c#\HorsePuzzle\HorsePuzzle\obj\Debug\HorsePuzzle.pdb

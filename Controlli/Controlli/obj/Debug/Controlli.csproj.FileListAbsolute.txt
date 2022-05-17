@@ -1,0 +1,11 @@
+Z:\WINDOWS\c#\Controlli\Controlli\bin\Debug\Controlli.exe.config
+Z:\WINDOWS\c#\Controlli\Controlli\bin\Debug\Controlli.exe
+Z:\WINDOWS\c#\Controlli\Controlli\bin\Debug\Controlli.pdb
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.Form1.resources
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.Properties.Resources.resources
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.exe
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.pdb
+Z:\WINDOWS\c#\Controlli\Controlli\obj\Debug\Controlli.MiaDialog.resources

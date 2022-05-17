@@ -1,0 +1,30 @@
+C:\Prove\Lavagna\Lavagna\bin\Debug\Lavagna.exe.config
+C:\Prove\Lavagna\Lavagna\bin\Debug\Lavagna.exe
+C:\Prove\Lavagna\Lavagna\bin\Debug\Lavagna.pdb
+C:\Prove\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.AssemblyReference.cache
+C:\Prove\Lavagna\Lavagna\obj\Debug\Lavagna.Form1.resources
+C:\Prove\Lavagna\Lavagna\obj\Debug\Lavagna.Properties.Resources.resources
+C:\Prove\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.GenerateResource.cache
+C:\Prove\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.CoreCompileInputs.cache
+C:\Prove\Lavagna\Lavagna\obj\Debug\Lavagna.exe
+C:\Prove\Lavagna\Lavagna\obj\Debug\Lavagna.pdb
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\bin\Debug\Lavagna.exe.config
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\bin\Debug\Lavagna.exe
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\bin\Debug\Lavagna.pdb
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\obj\Debug\Lavagna.csprojAssemblyReference.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\obj\Debug\Lavagna.Form1.resources
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\obj\Debug\Lavagna.Properties.Resources.resources
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.GenerateResource.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.CoreCompileInputs.cache
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\obj\Debug\Lavagna.exe
+C:\Albe\ITStraining\Corsi2021-23\.NET Framework\Lezioni\EsempiScelti\Lavagna\Lavagna\obj\Debug\Lavagna.pdb
+Z:\WINDOWS\c#\Lavagna\Lavagna\bin\Debug\Lavagna.exe.config
+Z:\WINDOWS\c#\Lavagna\Lavagna\bin\Debug\Lavagna.exe
+Z:\WINDOWS\c#\Lavagna\Lavagna\bin\Debug\Lavagna.pdb
+Z:\WINDOWS\c#\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\Lavagna\Lavagna\obj\Debug\Lavagna.Form1.resources
+Z:\WINDOWS\c#\Lavagna\Lavagna\obj\Debug\Lavagna.Properties.Resources.resources
+Z:\WINDOWS\c#\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\Lavagna\Lavagna\obj\Debug\Lavagna.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\Lavagna\Lavagna\obj\Debug\Lavagna.exe
+Z:\WINDOWS\c#\Lavagna\Lavagna\obj\Debug\Lavagna.pdb

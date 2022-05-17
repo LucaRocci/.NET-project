@@ -1,0 +1,10 @@
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\bin\Debug\ProveWindowsForm.exe.config
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\bin\Debug\ProveWindowsForm.exe
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\bin\Debug\ProveWindowsForm.pdb
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\obj\Debug\ProveWindowsForm.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\obj\Debug\ProveWindowsForm.Form1.resources
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\obj\Debug\ProveWindowsForm.Properties.Resources.resources
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\obj\Debug\ProveWindowsForm.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\obj\Debug\ProveWindowsForm.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\obj\Debug\ProveWindowsForm.exe
+Z:\WINDOWS\c#\ProveWindowsForm\ProveWindowsForm\obj\Debug\ProveWindowsForm.pdb

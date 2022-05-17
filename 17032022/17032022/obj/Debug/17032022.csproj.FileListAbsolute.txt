@@ -1,0 +1,7 @@
+C:\Users\ICTS21-23.105\source\repos\17032022\17032022\bin\Debug\17032022.exe.config
+C:\Users\ICTS21-23.105\source\repos\17032022\17032022\bin\Debug\17032022.exe
+C:\Users\ICTS21-23.105\source\repos\17032022\17032022\bin\Debug\17032022.pdb
+C:\Users\ICTS21-23.105\source\repos\17032022\17032022\obj\Debug\17032022.csproj.AssemblyReference.cache
+C:\Users\ICTS21-23.105\source\repos\17032022\17032022\obj\Debug\17032022.csproj.CoreCompileInputs.cache
+C:\Users\ICTS21-23.105\source\repos\17032022\17032022\obj\Debug\17032022.exe
+C:\Users\ICTS21-23.105\source\repos\17032022\17032022\obj\Debug\17032022.pdb

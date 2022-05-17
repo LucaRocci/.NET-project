@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\24032022Fibonacci\bin\Debug\24032022Fibonacci.exe.config
+Z:\WINDOWS\c#\24032022Fibonacci\bin\Debug\24032022Fibonacci.exe
+Z:\WINDOWS\c#\24032022Fibonacci\bin\Debug\24032022Fibonacci.pdb
+Z:\WINDOWS\c#\24032022Fibonacci\obj\Debug\24032022Fibonacci.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\24032022Fibonacci\obj\Debug\24032022Fibonacci.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\24032022Fibonacci\obj\Debug\24032022Fibonacci.exe
+Z:\WINDOWS\c#\24032022Fibonacci\obj\Debug\24032022Fibonacci.pdb

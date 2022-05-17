@@ -1,0 +1,13 @@
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\Fattoria\Fattoria\bin\Debug\Fattoria.exe.config
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\Fattoria\Fattoria\bin\Debug\Fattoria.exe
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\Fattoria\Fattoria\bin\Debug\Fattoria.pdb
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\Fattoria\Fattoria\obj\Debug\Fattoria.csprojResolveAssemblyReference.cache
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\Fattoria\Fattoria\obj\Debug\Fattoria.exe
+C:\Albe\ITStraining\Corsi2015-17\.NET Framework\Esempi\Fattoria\Fattoria\obj\Debug\Fattoria.pdb
+Z:\WINDOWS\c#\Fattoria\Fattoria\bin\Debug\Fattoria.exe.config
+Z:\WINDOWS\c#\Fattoria\Fattoria\bin\Debug\Fattoria.exe
+Z:\WINDOWS\c#\Fattoria\Fattoria\bin\Debug\Fattoria.pdb
+Z:\WINDOWS\c#\Fattoria\Fattoria\obj\Debug\Fattoria.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\Fattoria\Fattoria\obj\Debug\Fattoria.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\Fattoria\Fattoria\obj\Debug\Fattoria.exe
+Z:\WINDOWS\c#\Fattoria\Fattoria\obj\Debug\Fattoria.pdb

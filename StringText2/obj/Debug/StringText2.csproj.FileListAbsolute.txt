@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\StringText2\bin\Debug\StringText2.exe.config
+Z:\WINDOWS\c#\StringText2\bin\Debug\StringText2.exe
+Z:\WINDOWS\c#\StringText2\bin\Debug\StringText2.pdb
+Z:\WINDOWS\c#\StringText2\obj\Debug\StringText2.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\StringText2\obj\Debug\StringText2.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\StringText2\obj\Debug\StringText2.exe
+Z:\WINDOWS\c#\StringText2\obj\Debug\StringText2.pdb

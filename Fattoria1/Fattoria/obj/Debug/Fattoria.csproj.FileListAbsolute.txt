@@ -1,0 +1,7 @@
+Z:\WINDOWS\c#\14042022\Fattoria\Fattoria\bin\Debug\Fattoria.exe.config
+Z:\WINDOWS\c#\14042022\Fattoria\Fattoria\bin\Debug\Fattoria.exe
+Z:\WINDOWS\c#\14042022\Fattoria\Fattoria\bin\Debug\Fattoria.pdb
+Z:\WINDOWS\c#\14042022\Fattoria\Fattoria\obj\Debug\Fattoria.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\14042022\Fattoria\Fattoria\obj\Debug\Fattoria.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\14042022\Fattoria\Fattoria\obj\Debug\Fattoria.exe
+Z:\WINDOWS\c#\14042022\Fattoria\Fattoria\obj\Debug\Fattoria.pdb

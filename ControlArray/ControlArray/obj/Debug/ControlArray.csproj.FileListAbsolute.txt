@@ -1,0 +1,10 @@
+Z:\WINDOWS\c#\ControlArray\ControlArray\bin\Debug\ControlArray.exe.config
+Z:\WINDOWS\c#\ControlArray\ControlArray\bin\Debug\ControlArray.exe
+Z:\WINDOWS\c#\ControlArray\ControlArray\bin\Debug\ControlArray.pdb
+Z:\WINDOWS\c#\ControlArray\ControlArray\obj\Debug\ControlArray.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\ControlArray\ControlArray\obj\Debug\ControlArray.Form1.resources
+Z:\WINDOWS\c#\ControlArray\ControlArray\obj\Debug\ControlArray.Properties.Resources.resources
+Z:\WINDOWS\c#\ControlArray\ControlArray\obj\Debug\ControlArray.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\ControlArray\ControlArray\obj\Debug\ControlArray.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\ControlArray\ControlArray\obj\Debug\ControlArray.exe
+Z:\WINDOWS\c#\ControlArray\ControlArray\obj\Debug\ControlArray.pdb
