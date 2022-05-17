@@ -1,0 +1,11 @@
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\bin\Debug\CalcolatriceProva.exe.config
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\bin\Debug\CalcolatriceProva.exe
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\bin\Debug\CalcolatriceProva.pdb
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.csproj.AssemblyReference.cache
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.csproj.SuggestedBindingRedirects.cache
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.Form1.resources
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.Properties.Resources.resources
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.csproj.GenerateResource.cache
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.csproj.CoreCompileInputs.cache
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.exe
+C:\Users\paolo\Desktop\Luca\ITS\c#\CalcolatriceProva\CalcolatriceProva\obj\Debug\CalcolatriceProva.pdb
