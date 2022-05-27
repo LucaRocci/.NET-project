@@ -1,0 +1,12 @@
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\bin\Debug\ConnesioneDB2.exe.config
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\bin\Debug\ConnesioneDB2.exe
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\bin\Debug\ConnesioneDB2.pdb
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.Form1.resources
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.Properties.Resources.resources
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.exe
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.pdb
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.Form2.resources
+Z:\WINDOWS\c#\ConnesioneDB2\ConnesioneDB2\obj\Debug\ConnesioneDB2.Form3.resources

@@ -1,0 +1,10 @@
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\bin\Debug\AccessoDati.exe.config
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\bin\Debug\AccessoDati.exe
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\bin\Debug\AccessoDati.pdb
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\obj\Debug\AccessoDati.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\obj\Debug\AccessoDati.Form1.resources
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\obj\Debug\AccessoDati.Properties.Resources.resources
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\obj\Debug\AccessoDati.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\obj\Debug\AccessoDati.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\obj\Debug\AccessoDati.exe
+Z:\WINDOWS\c#\AccessoDati\AccessoDati\obj\Debug\AccessoDati.pdb

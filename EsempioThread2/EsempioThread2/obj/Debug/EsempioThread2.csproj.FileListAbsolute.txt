@@ -1,0 +1,13 @@
+C:\Prove\EsempioThread2\EsempioThread2\bin\Debug\EsempioThread2.exe.config
+C:\Prove\EsempioThread2\EsempioThread2\bin\Debug\EsempioThread2.exe
+C:\Prove\EsempioThread2\EsempioThread2\bin\Debug\EsempioThread2.pdb
+C:\Prove\EsempioThread2\EsempioThread2\obj\Debug\EsempioThread2.csproj.CoreCompileInputs.cache
+C:\Prove\EsempioThread2\EsempioThread2\obj\Debug\EsempioThread2.exe
+C:\Prove\EsempioThread2\EsempioThread2\obj\Debug\EsempioThread2.pdb
+Z:\WINDOWS\c#\EsempioThread2\EsempioThread2\bin\Debug\EsempioThread2.exe.config
+Z:\WINDOWS\c#\EsempioThread2\EsempioThread2\bin\Debug\EsempioThread2.exe
+Z:\WINDOWS\c#\EsempioThread2\EsempioThread2\bin\Debug\EsempioThread2.pdb
+Z:\WINDOWS\c#\EsempioThread2\EsempioThread2\obj\Debug\EsempioThread2.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\EsempioThread2\EsempioThread2\obj\Debug\EsempioThread2.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\EsempioThread2\EsempioThread2\obj\Debug\EsempioThread2.exe
+Z:\WINDOWS\c#\EsempioThread2\EsempioThread2\obj\Debug\EsempioThread2.pdb

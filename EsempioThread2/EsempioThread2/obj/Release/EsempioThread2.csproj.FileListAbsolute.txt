@@ -1,0 +1,7 @@
+C:\Prove\EsempioThread2\EsempioThread2\bin\Release\EsempioThread2.exe.config
+C:\Prove\EsempioThread2\EsempioThread2\bin\Release\EsempioThread2.exe
+C:\Prove\EsempioThread2\EsempioThread2\bin\Release\EsempioThread2.pdb
+C:\Prove\EsempioThread2\EsempioThread2\obj\Release\EsempioThread2.csproj.AssemblyReference.cache
+C:\Prove\EsempioThread2\EsempioThread2\obj\Release\EsempioThread2.csproj.CoreCompileInputs.cache
+C:\Prove\EsempioThread2\EsempioThread2\obj\Release\EsempioThread2.exe
+C:\Prove\EsempioThread2\EsempioThread2\obj\Release\EsempioThread2.pdb

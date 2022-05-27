@@ -1,0 +1,10 @@
+Z:\WINDOWS\c#\Dado\Dado\bin\Debug\Dado.exe.config
+Z:\WINDOWS\c#\Dado\Dado\bin\Debug\Dado.exe
+Z:\WINDOWS\c#\Dado\Dado\bin\Debug\Dado.pdb
+Z:\WINDOWS\c#\Dado\Dado\obj\Debug\Dado.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\Dado\Dado\obj\Debug\Dado.Form1.resources
+Z:\WINDOWS\c#\Dado\Dado\obj\Debug\Dado.Properties.Resources.resources
+Z:\WINDOWS\c#\Dado\Dado\obj\Debug\Dado.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\Dado\Dado\obj\Debug\Dado.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\Dado\Dado\obj\Debug\Dado.exe
+Z:\WINDOWS\c#\Dado\Dado\obj\Debug\Dado.pdb

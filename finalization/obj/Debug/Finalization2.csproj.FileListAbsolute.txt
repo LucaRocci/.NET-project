@@ -1,0 +1,8 @@
+Z:\WINDOWS\c#\finalization\bin\Debug\Finalization2.exe
+Z:\WINDOWS\c#\finalization\bin\Debug\Finalization2.pdb
+Z:\WINDOWS\c#\finalization\obj\Debug\Finalization2.csproj.AssemblyReference.cache
+Z:\WINDOWS\c#\finalization\obj\Debug\Finalization2.Form1.resources
+Z:\WINDOWS\c#\finalization\obj\Debug\Finalization2.csproj.GenerateResource.cache
+Z:\WINDOWS\c#\finalization\obj\Debug\Finalization2.csproj.CoreCompileInputs.cache
+Z:\WINDOWS\c#\finalization\obj\Debug\Finalization2.exe
+Z:\WINDOWS\c#\finalization\obj\Debug\Finalization2.pdb
